@@ -1,0 +1,18 @@
+.pinks {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#ider1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.bigger {
+    font-size: 24px;
+}
+
+#ider2 {
+    background-color: lightgreen;
+    font-weight: bold;
+}
